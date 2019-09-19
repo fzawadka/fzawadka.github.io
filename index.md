@@ -1,5 +1,4 @@
-permalink:uliczna.html
-
+<meta http-equiv="Refresh" content="0; url=filipzawadka.me/uliczne" />
 <!DOCTYPE html>
 <html lang="en">
 <head>
