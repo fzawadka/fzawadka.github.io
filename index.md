@@ -1,3 +1,5 @@
+permalink:uliczna.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
